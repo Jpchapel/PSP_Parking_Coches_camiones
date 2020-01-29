@@ -8,7 +8,7 @@ package parkingCochesCamiones;
 
 /**
  *
- * @author Stream
+ * @author Joaquin Pereira Chapel
  */
 public class Camion extends Vehiculo{
 

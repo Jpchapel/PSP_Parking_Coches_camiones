@@ -9,7 +9,7 @@ import java.util.LinkedList;
 
 /**
  *
- * @author Stream
+ * @author Joaquin Pereira Chapel
  */
 public class Parking {
 

@@ -11,7 +11,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Stream
+ * @author Joaquin Pereira Chapel
  */
 public class Vehiculo extends Thread{
     protected final int id;
