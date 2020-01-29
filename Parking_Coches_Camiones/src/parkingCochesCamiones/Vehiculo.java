@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package parking_coches_camiones;
+package parkingCochesCamiones;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -48,4 +48,11 @@ public class Vehiculo extends Thread{
             Logger.getLogger(Vehiculo.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
+
+    @Override
+    public String toString() {
+        return this.getClass().getSimpleName() + " " + this.getID();
+    }
+    
+    
 }

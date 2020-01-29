@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package parking_coches_camiones;
+package parkingCochesCamiones;
 
 import java.util.LinkedList;
 

@@ -4,13 +4,13 @@
  * and open the template in the editor.
  */
 
-package parking_coches_camiones;
+package parkingCochesCamiones;
 
 /**
  *
  * @author Stream
  */
-public class Parking_Coches_Camiones {
+public class ParkingCochesCamiones {
 
     /**
      * @param args the command line arguments

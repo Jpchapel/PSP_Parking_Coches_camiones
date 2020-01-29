@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package parking_coches_camiones;
+package parkingCochesCamiones;
 
 /**
  *
@@ -15,9 +15,5 @@ public class Camion extends Vehiculo{
     public Camion(int id, Parking parking) {
         super(id, parking);
     }
-    
-    @Override
-    public String toString() {
-        return "Coche " + this.id;
-    }    
+        
 }
